@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e681fadd-b328-435e-b883-27f05016b08d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../home_page_test/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1/HomeCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1/SignupCest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2/ArticleCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2/CatalogItemCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2/CategoryCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2/HomeCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2/MenuCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2/PageCept.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcceptanceTester.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ekoshop_test_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ekoshop_test_search.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home-works-ru.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home_page_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../home_page_test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/.idea/selenoid test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/opensite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/bin/python3.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenoid test/venv/pyvenv.cfg" beforeDir="false" />
-    </list>
+    <list default="true" id="e681fadd-b328-435e-b883-27f05016b08d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
