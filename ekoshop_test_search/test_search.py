@@ -15,7 +15,6 @@ driver = webdriver.Remote(
     desired_capabilities=capbilities)
 driver.maximize_window()
 
-#def test_search_shop(self):
 driver.get("http://shop.ekodar.ru")
 elem = driver.find_element_by_css_selector(".btn.btn-green").click()
 time.sleep(2)
