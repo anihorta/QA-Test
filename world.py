@@ -1,4 +1,5 @@
 import csv
+# ТЕСТОВЫЙ КОММЕНТ
 
 # открываем нужные файлы, указываем кодировку
 file_ans = open('C:\\Users\\Кирилл\\Downloads\\Telegram Desktop\\strani.csv', encoding='utf8', newline='')
